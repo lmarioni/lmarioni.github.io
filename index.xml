@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;#xA9; 2019 by Axon Training &lt;DEV.TEAM&gt;.</copyright>
-    <lastBuildDate>Wed, 03 Apr 2019 14:05:04 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 21:53:35 -0300</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resultado Hackathon 04/04/2019</title>
+      <link>http://example.org/post/resultado-hackathon-04042019/</link>
+      <pubDate>Thu, 04 Apr 2019 21:53:35 -0300</pubDate>
+      
+      <guid>http://example.org/post/resultado-hackathon-04042019/</guid>
+      <description>Resultados Hackathon 04/04/2019  El problema:  Fácil: - La Platafoma &amp;hellip; El problema era resolver toda la parte de cara al usuario de la plataforma, teniendo en cuenta nuestro nuevo público..
+Solución:  Acá está la solución que presentaron los chicos:
+ Presentación PPT - Solución  Epic Moment:  Your browser does not support HTML5 video.  Imagenes</description>
+    </item>
     
     <item>
       <title>Hackathon 04/04/2019</title>
